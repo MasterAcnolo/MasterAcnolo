@@ -1,4 +1,4 @@
-# 💻 About Me:
+# 💻 A Propos:
 ### French Man, Working at home and want to work in IT. Love making programs since 8 years. Never stop learning ! 
 
 
@@ -11,7 +11,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=MasterAcnolo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=MasterAcnolo&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterAcnolo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=MasterAcnolo&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Graphe%20de%20mes%20contributions%20)
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MasterAcnolo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
@@ -24,4 +24,6 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelnicolas25) 
 
   
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
