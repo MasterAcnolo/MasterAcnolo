@@ -18,7 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MasterAcnolo&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 ---
-[![](https://visitcount.itsvg.in/api?id=MasterAcnolo&icon=0&color=1)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=MasterAcnolo&icon=0&color=1)](https://visitcount.itsvg.in)-->
 
   ## 💰 Si jamais vous voulez me faire un don c'est ici ! 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelnicolas25) 
