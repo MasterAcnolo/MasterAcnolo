@@ -72,14 +72,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MasterAcnolo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=MasterAcnolo&icon=0&color=1)](https://visitcount.itsvg.in)
+## 💰 Si jamais vous voulez me faire un don c'est ici ! 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelnicolas25) 
 
-  ## 💰 Si jamais vous voulez me faire un don c'est ici ! 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelnicolas25) 
 
-  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
