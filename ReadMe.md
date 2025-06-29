@@ -1,16 +1,13 @@
-# 💻 A Propos:
-### French Man, Working at home and want to work in IT. Love making programs since 9 years.Don't have a big level today but tomorrow is gonna be wild ! Never stop learning ! 
+# 💻 About Me:
+### French guy, working from home and wanting to work in IT. I've loved programming for 9 years. Not at a high level today, but tomorrow is going to be wild! Never stop learning!
 
-## 🌐 Réseaux Sociaux :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/axelnicolas25) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MasterAcnol0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22656142) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mast3racnol0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCS55e2-ZslXqGzznB_7N4Sg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masteracnolo25@gmail.com) 
+## 🌐 Social Networks:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/axelnicolas25) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MasterAcnol0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22656142) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mast3racnol0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCS55e2-ZslXqGzznB_7N4Sg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masteracnolo25@gmail.com)
 
----
-
-## 🛜 Mon Site :
+## 🛜 My Website:
 [![Visit Site](https://img.shields.io/badge/Visit%20Site-%230077B5.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://masteracnolo.github.io/No-Sense/)
 
---- 
-# 💻 J'ai déjà utilisé :
+# 💻 Technologies I've Used:
 
 
 <br clear="both">
@@ -62,12 +59,12 @@
 </div>
 
 ###
-# 📊 Statistiques GitHub:
+# 📊 GitHub Stats:
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterAcnolo&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterAcnolo&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity graph"  />
 </div>
 
 ###
@@ -76,6 +73,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=MasterAcnolo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-## 💰 Si jamais vous voulez me faire un don c'est ici ! 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelnicolas25) 
-
+## 💰 If you want to support me, here is where:
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelnicolas25)
