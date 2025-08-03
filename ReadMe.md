@@ -70,7 +70,8 @@
 ###
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MasterAcnolo&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MasterAcnolo&theme=transparent&no-frame=true&no-bg=true&titles=commits,prs,repositories,experience)
 
 ---
 ## 💰 If you want to support me, here is where:
