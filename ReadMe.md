@@ -9,7 +9,7 @@ Hello ! I am a **French** who love **learning** and **making projects that are u
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/MasterAcnolo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50">  
   </a>
   <!--<a href="https://discord.gg/5BfRVus63R" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
@@ -29,7 +29,7 @@ Hello ! I am a **French** who love **learning** and **making projects that are u
 </div>
 
 ## 🛜 My Website:
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-%230077B5.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://masteracnolo.github.io/No-Sense/)
+[![Visit Site](https://img.shields.io/badge/My_Website-383837?style=for-the-badge&logo=supabase&logoColor=white)](https://masteracnolo.github.io/No-Sense/)
 
 # 💻 Technologies I'am using/used:
 
