@@ -1,6 +1,6 @@
 # 💻 About Me:
 
-Hello ! I am a **French** who love **learning** and **making projects that are usefull for others**. My dream would be **working in IT Environnement !** I've being programming **for 9 years** but i **don't think i am a pro**. My level is **not high** today but **tomorrow is gonna be wild ! Never Stop Learning !** 
+Hello ! I am a crazy **French** man who love **learning** and **making projects that are usefull for others**. My dream would be **working in IT Environnement !** I've being programming **for 9 years** but i **don't think i am a pro**. My level is **not high** today but **tomorrow is gonna be wild ! Never Stop Learning !** 
 
 ## 🌐 Social Networks:
 
