@@ -92,18 +92,8 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
 </div>
 
 # 📊 GitHub Stats:
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterAcnolo&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity graph"  />
 </div>
 
 ###
-
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MasterAcnolo&theme=onestar&no-frame=true&title=-Reviews,-Issues&margin-w=10">
-</div> 
---> 
