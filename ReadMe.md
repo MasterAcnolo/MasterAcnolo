@@ -11,9 +11,6 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
   <a href="https://x.com/MasterAcnolo" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50">  
   </a>
-  <!--<a href="https://discord.gg/5BfRVus63R" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
-  </a> -->
   <a href="https://www.youtube.com/channel/UCS55e2-ZslXqGzznB_7N4Sg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
   </a>
@@ -47,6 +44,8 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
@@ -75,8 +74,6 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="8" />
