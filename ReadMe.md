@@ -12,11 +12,17 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50">  
   </a>
   <a href="https://www.youtube.com/channel/UCS55e2-ZslXqGzznB_7N4Sg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"/>
+    
   </a>
   <a href="https://www.twitch.tv/mast3racnol0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitch logo"  />
   </a>
+
+  <a href="https://open.spotify.com/user/0ylma3sww8uty7mxry46e229m?si=cd74c9cf05bf4e64">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+
   <a href="mailto:masteracnolo25@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
@@ -25,8 +31,19 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
   </a>
 </div>
 
-## 🛜 My Website:
-[![Visit Site](https://img.shields.io/badge/My_Website-383837?style=for-the-badge&logo=supabase&logoColor=white)](https://masteracnolo.github.io/No-Sense/)
+## 🛜 My Websites:
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  
+  <a href="https://masteracnolo.github.io/No-Sense/">
+    <img src="https://img.shields.io/badge/%3C/%3E%20My Website-1f1f1f?style=for-the-badge&logo=mysl&logoColor=white" alt="My Site">
+  </a>
+
+  <a href="https://masteracnolo.github.io/FreedomLoader/index.html">
+    <img src="https://img.shields.io/badge/Freedom Loader-f2f2f2?style=for-the-badge&logo=deno&logoColor=1f1f1f" alt="Freedom Loader">
+  </a>
+</div>
+
+
 
 # 💻 Technologies I'am using/used:
 
