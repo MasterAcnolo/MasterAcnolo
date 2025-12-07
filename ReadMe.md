@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="90%" height="auto" alt="Group 6" src="https://github.com/user-attachments/assets/6c326deb-527b-4f15-8a27-7c88ff69fa40" />
+  <img width="900" height="auto" alt="Desktop - 4" src="https://github.com/user-attachments/assets/a949b4d4-758f-4b43-a01d-665b0d045537" />
 </div>
 
 # 💻 About Me:
