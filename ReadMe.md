@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="90%" height="auto" alt="Group 6" src="https://github.com/user-attachments/assets/6c326deb-527b-4f15-8a27-7c88ff69fa40" />
+</div>
+
 # 💻 About Me:
 
 Hello ! I am a crazy **French** man who love **learning** and **making projects that are usefull for others**. My dream would be **working in IT Environnement !** I've being programming **for 9 years** but i **don't think i am a pro**. My level is **not high** today but **tomorrow is gonna be wild ! Never Stop Learning !** 
