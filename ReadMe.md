@@ -27,9 +27,6 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 
-  <a href="mailto:masteracnolo25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-  </a>
   <a href="https://www.paypal.com/paypalme/axelnicolas25" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="paypal logo"  />
   </a>
