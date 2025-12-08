@@ -1,20 +1,14 @@
 <div align="center">
-  <img width="90%" height="auto" alt="Desktop - 4" src="https://github.com/user-attachments/assets/a949b4d4-758f-4b43-a01d-665b0d045537" />
-</div>
+  <img width="90%" height="auto" alt="Desktop - 4" src="https://github.com/user-attachments/assets/a949b4d4-758f-4b43-a01d-665b0d045537" /> <br>
 
-# 💻 About Me:
-
-Hello ! I am a crazy **French** man who love **learning** and **making projects that are usefull for others**. My dream would be **working in IT Environnement !** I've being programming **for 9 years** but i **don't think i am a pro**. My level is **not high** today but **tomorrow is gonna be wild ! Never Stop Learning !** 
-
-## 🌐 Social Networks:
-
-<div align="left">
   <a href="https://linkedin.com/in/axelnicolas25" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"/>
   </a>
+  
   <a href="https://x.com/MasterAcnolo" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50">  
   </a>
+  
   <a href="https://www.youtube.com/channel/UCS55e2-ZslXqGzznB_7N4Sg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"/>
     
@@ -30,7 +24,12 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
   <a href="https://www.paypal.com/paypalme/axelnicolas25" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="paypal logo"  />
   </a>
+  
 </div>
+
+# 💻 About Me:
+
+Hello ! I am a crazy **French** man who love **learning** and **making projects that are usefull for others**. My dream would be **working in IT Environnement !** I've being programming **for 9 years** but i **don't think i am a pro**. My level is **not high** today but **tomorrow is gonna be wild ! Never Stop Learning !** 
 
 ## 🛜 My Websites:
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
