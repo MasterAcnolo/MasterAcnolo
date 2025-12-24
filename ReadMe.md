@@ -13,7 +13,13 @@
 
 # 💻 About Me:
 
-Hello ! I am a crazy **French** man who love **learning** and **making projects that are usefull for others**. My dream would be **working in IT Environnement !** I've being programming **for 9 years** but i **don't think i am a pro**. My level is **not high** today but **tomorrow is gonna be wild ! Never Stop Learning !** 
+Hello! I’m a **crazy passionate French developer** fascinated by the **open source world**, inspired by greats like **Linus Torvalds**, and eager to **carry the spirit of helping others forward**.  
+I’ve been programming for **9 years**, and my dream is to **build solutions that are genuinely useful** and **improve people’s lives**.  
+
+I love **spending my evenings learning new technologies** or **just learning for the sake of learning**.  
+I may not be a **pro yet**, but I believe in **continuous learning** and **persistence**.  
+
+**Today I work with the level I have, but tomorrow is gonna be wild! Never stop learning!**
 
 ## 🛜 My Websites:
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
