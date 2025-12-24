@@ -67,8 +67,8 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
   <img width="6"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="40"/>
-  <img width="6"/>
+  <!--<img src="https://skillicons.dev/icons?i=rust" height="40"/>
+  <img width="6"/> -->
   <img src="https://skillicons.dev/icons?i=php" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
