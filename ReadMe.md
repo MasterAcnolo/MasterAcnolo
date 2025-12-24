@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://masteracnolo.github.io/No-Sense/" target="_blank"> <img width="85%" height="auto" alt="MasterAcnolo - Coding - Driving - Learning" src="https://github.com/user-attachments/assets/a949b4d4-758f-4b43-a01d-665b0d045537" /> </a> <br>
 
-<div style="display:flex; flex-direction:row;">
+<!-- <div style="display:flex; flex-direction:row;">
   <a href="https://linkedin.com/in/axelnicolas25" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"/></a>
   <a href="https://x.com/MasterAcnolo" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="50"></a>
   <a href="https://www.youtube.com/channel/UCS55e2-ZslXqGzznB_7N4Sg" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"/></a>
@@ -9,7 +9,8 @@
   <a href="https://open.spotify.com/user/0ylma3sww8uty7mxry46e229m?si=cd74c9cf05bf4e64"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://www.paypal.com/paypalme/axelnicolas25" target="_blank"><img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="paypal logo"  /></a>
   
-</div>  
+</div> -->
+
 </div>
 
 # 💻 About Me:
