@@ -28,9 +28,6 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
 
 ## 💻 Comfortable With :
 
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="6"/>
