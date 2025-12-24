@@ -11,7 +11,7 @@
  -->
 
 
-# 💻 About Me:
+## 💻 About Me:
 
 Hello! I’m a **crazy passionate French developer** fascinated by the **open source world**, inspired by greats like **Linus Torvalds**, and eager to **carry the spirit of helping others forward**.  
 I’ve been programming for **9 years**, and my dream is to **build solutions that are genuinely useful** and **improve people’s lives**.  
