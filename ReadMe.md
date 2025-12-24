@@ -82,7 +82,7 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
 </div>
 
-<!-- # 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterAcnolo&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  /> <br>
-</div> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterAcnolo&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_title=true&hide_border=true" width="90%" alt="activity-graph graph"  /> <br>
+</div>
