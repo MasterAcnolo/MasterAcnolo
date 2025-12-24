@@ -89,12 +89,9 @@ Hello ! I am a crazy **French** man who love **learning** and **making projects 
   <img width="8" />
 </div>
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterAcnolo&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  /> <br>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=MasterAcnolo&theme=aura&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4Stars,Followers&title=-Reviews,%20-Issues,%20-Stars,-Followers" height="150" alt="trophy graph" /><br>
-  <img src="https://streak-stats.demolab.com?user=MasterAcnolo&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <br> -->
-
-</div>
+</div> -->
 
 ###
