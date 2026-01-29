@@ -24,7 +24,7 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
 ## 🛜 My Websites:
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   
-  <a href="https://masteracnolo.github.io/No-Sense/"><img src="https://img.shields.io/badge/%3C/%3E%20Portfolio-1f1f1f?style=for-the-badge&logo=mysl&logoColor=white" alt="My Site"></a>
+  <a href="https://masteracnolo.github.io/No-Sense/"><img src="https://img.shields.io/badge/%3C/%3E%20Portfolio-1f1f1f?style=for-the-badge&logo=mysl&logoColor=white" alt="No Sense"></a>
   <a href="https://masteracnolo.github.io/FreedomLoader/index.html"><img src="https://img.shields.io/badge/Freedom Loader-f2f2f2?style=for-the-badge&logo=deno&logoColor=1f1f1f" alt="Freedom Loader"></a>
   
 </div>
