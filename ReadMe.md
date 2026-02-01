@@ -20,8 +20,6 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   
 </div>
 
-
-
 ## 💻 Comfortable With :
 
 <div align="left">
@@ -78,8 +76,3 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
 </div>
-
-<!--  ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterAcnolo&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_title=true&hide_border=true" width="90%" alt="activity-graph graph"  /> <br>
-</div> -->
