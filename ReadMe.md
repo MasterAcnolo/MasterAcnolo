@@ -37,6 +37,10 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=express" height="40"/>
   <img width="6"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img width="6"/>
+  <img width="40" height="40" alt="docker" src="https://github.com/user-attachments/assets/394ca2b4-2b83-4043-a68e-100b7d2eb243" />
+  <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40"/>
   <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
@@ -61,8 +65,6 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   <img src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1762791712" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=vue" height="40"/>
-  <img width="6"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
   <img width="6"/>
