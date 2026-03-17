@@ -17,7 +17,7 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   
   <a href="https://masteracnolo.github.io/No-Sense/"><img src="https://img.shields.io/badge/%3C/%3E%20No Sense-1f1f1f?style=for-the-badge&logo=mysl&logoColor=white" alt="No Sense"></a>
   <a href="https://masteracnolo.github.io/FreedomLoader/"><img src="https://img.shields.io/badge/Freedom Loader-f2f2f2?style=for-the-badge&logo=github&logoColor=1f1f1f" alt="Freedom Loader"></a>
-  <a href="https://masteracnolo.github.io/Blog"><img src="https://img.shields.io/badge/Blog-1f1f1f?style=for-the-badge&logo=gitbook&logoColor=f2f2f2" alt="Freedom Loader"></a>
+  <a href="https://masteracnolo.github.io/Blog"><img src="https://img.shields.io/badge/Blog-1f1f1f?style=for-the-badge&logo=rss&logoColor=f2f2f2" alt="Freedom Loader"></a>
   <a href="https://masteracnolo.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-f2f2f2?style=for-the-badge&logo=academia&logoColor=1f1f1f" alt="Freedom Loader"></a>
   
 </div>
