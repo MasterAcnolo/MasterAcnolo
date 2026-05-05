@@ -69,6 +69,10 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
 
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=angular" height="40"/>
+  <img width="6"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  <img width="6"/>
   <img src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1762791712" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=vue" height="40"/>
