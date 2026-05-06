@@ -31,6 +31,8 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="6"/>
+  <img src="https://skillicons.dev/icons?i=php" height="40"/>
+  <img width="6"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -81,8 +83,6 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   <img width="6"/>
   <!--<img src="https://skillicons.dev/icons?i=rust" height="40"/>
   <img width="6"/> -->
-  <img src="https://skillicons.dev/icons?i=php" height="40"/>
-  <img width="6"/>
   <img src="https://skillicons.dev/icons?i=cmake" height="40"/>
   <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
