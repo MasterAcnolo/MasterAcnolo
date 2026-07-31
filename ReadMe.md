@@ -50,19 +50,25 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
 
 ## 🛠️ Tools am using :
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40"/>
+  <img width="6"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40"/>
   <img width="6"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40"/>
   <img width="6"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40"/>
   <img width="6"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" height="40"/>
+  <img width="6"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
   <img width="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img width="6"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=md" height="40"/>
 </div>
