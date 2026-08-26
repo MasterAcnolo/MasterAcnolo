@@ -25,11 +25,13 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
 ## Languages & Framework Comfortable With :
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="6"/> -->
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
   <img width="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=php" height="40"/>
   <img width="6"/>
@@ -42,6 +44,8 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   <img src="https://skillicons.dev/icons?i=electron" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img width="6"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
   <img width="6"/>
@@ -73,23 +77,19 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   <img src="https://skillicons.dev/icons?i=md" height="40"/>
 </div>
 
-## I am learning or already try :
+<!--
+## I want to learn or already try :
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="40"/>
-  <img width="6"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
-  <img width="6"/>
   <img src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1762791712" height="40"/>
-  <img width="6"/>
-  <img src="https://skillicons.dev/icons?i=vue" height="40"/>
   <img width="6"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
   <img width="6"/>
-  <!--<img src="https://skillicons.dev/icons?i=rust" height="40"/>
-  <img width="6"/> -->
+  <img src="https://skillicons.dev/icons?i=vue" height="40"/>
+  <img width="6"/>
   <img src="https://skillicons.dev/icons?i=cmake" height="40"/>
   <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
 </div>
+-->
