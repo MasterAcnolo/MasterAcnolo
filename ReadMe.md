@@ -52,7 +52,7 @@ I may not be a **pro yet**, but I believe in **continuous learning** and **persi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40"/>
 </div>
 
-## Tools am using :
+## Tools & Software :
 <div align="left">
   <img src="https://skillicons.dev/icons?i=obsidian" height="40"/>
   <img width="6"/>
